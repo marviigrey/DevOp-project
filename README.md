@@ -7,5 +7,9 @@ A DevOps project with the use of:
    2- T2-micro for ansible and jenkins 
    1- T2-medium for K8s minikube.
    
+   We are going to dockerize a node application with complete automation,from A-Z.
+   All materials needed for this project is on this repository.
+   
+   
 
    
